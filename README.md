@@ -1,4 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FNKEt9elQ5cR68%2Fgiphy.gif&f=1&nofb=1&ipt=a3405e20e70f108e6613e742fa4ad94b98d84ab3bbad3217f05a75eb30368d76&ipo=images)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FNKEt9elQ5cR68%2Fgiphy.gif&f=1&nofb=1&ipt=a3405e20e70f108e6613e742fa4ad94b98d84ab3bbad3217f05a75eb30368d76&ipo=images)
 <h1 align="center">Hi 👋, I'm Carlos T.</h1>
 <h3 align="center">A passionate frontend developer from Chicago</h3>
 
@@ -7,7 +7,7 @@
 <!--- Comment out trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carelessoutcast" alt="carelessoutcast" /></a> </p>
 --->
-(img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2F5e25aUTZPcI94uMZgv%2Fgiphy.gif&f=1&nofb=1&ipt=f2472b40498b36d61157272fb484596163588834b46773c6a7662a4ec1bd6136&ipo=images")
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2F5e25aUTZPcI94uMZgv%2Fgiphy.gif&f=1&nofb=1&ipt=f2472b40498b36d61157272fb484596163588834b46773c6a7662a4ec1bd6136&ipo=images">
 - 🔭 I’m currently working on **my Portfolio Website**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
