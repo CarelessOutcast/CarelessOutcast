@@ -1,6 +1,6 @@
 <img align="right" alt="banner" width="100%" height="325" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FNKEt9elQ5cR68%2Fgiphy.gif&f=1&nofb=1&ipt=a3405e20e70f108e6613e742fa4ad94b98d84ab3bbad3217f05a75eb30368d76&ipo=images">
 <h1 align="center">Hi 👋, I'm Carlos T.</h1>
-<h3 align="center">A passionate frontend developer from Chicago</h3>
+<h3 align="center">A passionate developer from Chicago</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelessoutcast&label=Profile%20views&color=0e75b6&style=flat" alt="carelessoutcast" /> </p>
 
