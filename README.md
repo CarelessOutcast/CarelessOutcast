@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos T.</h1>
-<h3 align="center"> Currently a student with goals to create some kickass software that'll hopefully make everyones life easier</h3>
+<h3 align="center"> Currently a student with goals to create some kickass software that'll make everyones life easier</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelessoutcast&label=Profile%20views&color=0e75b6&style=flat" alt="carelessoutcast" /> </p>
 <!--
