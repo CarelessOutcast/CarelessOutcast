@@ -2,7 +2,7 @@
 <h3 align="center"> Currently a student with goals to create some kickass software that'll make everyones life easier </h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelessoutcast&label=Profile%20views&color=0e75b6&style=flat" alt="carelessoutcast" /> </p>
- <a href="https://wakatime.com/@018cd78a-96f7-4975-83dc-d8cde43eca06"><img src="https://wakatime.com/badge/user/018cd78a-96f7-4975-83dc-d8cde43eca06.svg" alt="Total time coded since Jan 4 2024" /></a>
+ [![wakatime](https://wakatime.com/badge/user/018cd78a-96f7-4975-83dc-d8cde43eca06.svg)](https://wakatime.com/@018cd78a-96f7-4975-83dc-d8cde43eca06)
 <!--
 <img align="right" alt="Coding" width="600" height="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2F5e25aUTZPcI94uMZgv%2Fgiphy.gif&f=1&nofb=1&ipt=f2472b40498b36d61157272fb484596163588834b46773c6a7662a4ec1bd6136&ipo=images">
 
@@ -30,4 +30,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carelessoutcast&show_icons=true&locale=en&layout=compact" alt="carelessoutcast" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carelessoutcast&" alt="carelessoutcast" /></p>
+
 -->
