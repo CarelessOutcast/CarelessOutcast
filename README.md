@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Carlos T.</h1>
-<h3 align="center"> Currently a student with goals to create some kickass software that'll make everyones life easier </h3>
+# Hi 👋, I'm Carlos T.
+
+### Currently a student with goals to create some kickass software that'll make everyones life easier
+[![wakatime](https://wakatime.com/badge/user/018cd78a-96f7-4975-83dc-d8cde43eca06.svg)](https://wakatime.com/@018cd78a-96f7-4975-83dc-d8cde43eca06)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelessoutcast&label=Profile%20views&color=0e75b6&style=flat" alt="carelessoutcast" /> </p>
  
