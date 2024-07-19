@@ -1,6 +1,6 @@
 # Hi 👋, I'm Carlos T.
 
-### Currently a looking for work with goals to create some software that'll make everyones life easier
+### My mission is to help build products that save real people real time. 
 ![wakatime](https://wakatime.com/badge/user/018cd78a-96f7-4975-83dc-d8cde43eca06.svg)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelessoutcast&label=Profile%20views&color=0e75b6&style=flat" alt="carelessoutcast" /> </p>
